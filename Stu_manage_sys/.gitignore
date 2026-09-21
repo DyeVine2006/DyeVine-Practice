@@ -1,0 +1,22 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+stu_manage_sys
+
+# Build output
+build/
+dist/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Local runtime data (keep data/Grade.txt as the tracked sample)
+/Grade.txt
+
+# OS noise
+.DS_Store
+Thumbs.db
